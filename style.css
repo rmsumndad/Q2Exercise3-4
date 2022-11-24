@@ -1,0 +1,52 @@
+#R01{
+		background: #ADD7EE;
+		border-color: #527284;
+		border-style: dotted;
+		margin: 10%;
+	}
+#HIH{
+		color: darkblue;
+		font-family: courier;
+		font-size: 15pt;
+		text-align: center;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+#price{
+		margin-top: 20px;
+		margin-bottom: 20px;
+		font-family: cursive;
+		font-size:50px;
+		text-align: center;
+		color: darkblue;
+	}
+body{
+		background-color: #ABBDC7;
+	}
+img{
+		height: 500px;
+		width: 800px;
+		margin-left:  15%;
+		margin-right:  20%;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+h1{
+		font-family: cursive;
+		font-size: 30pt;
+		text-align: center;
+		color: darkblue ;
+}
+button{
+		border: none;
+		border-radius: 3px;
+		outline: 0;
+		display: inline-black;
+		padding: 12px;
+		background-color: #78B0CF ;
+		color: darkblue;
+		text-align: center;
+		width: 100%;
+		font-size: 18px;
+	}
+
